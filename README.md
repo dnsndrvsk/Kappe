@@ -21,6 +21,6 @@ The app will be automatically opened in your browser.
 
 <hr/>
 <blockquote>
-PSD theme was designed by Faton Avdiu.
+PSD theme was designed by Faton Avdiu, but the current design has a few of my changes.
 </blockquote>
 <hr/>
