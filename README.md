@@ -19,5 +19,5 @@ npm start
 The app will be automatically opened in your browser.
 
 <hr/>
-PS: PSD theme was designed by Faton Avdiu.
+PSD theme was designed by Faton Avdiu.
 <hr/>
