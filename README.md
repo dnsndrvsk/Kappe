@@ -20,7 +20,7 @@ This project was created using <code>React</code>, <code>Express</code>, <code>M
 
 
 
-![alt text](http://i103.fastpic.ru/big/2018/0129/87/fff0c43eae871a3d60d34cc5c4642587.jpg)
+![alt text](http://i99.fastpic.ru/big/2018/0129/d5/02d7e874c8fb1ce69aba52a9195d59d5.jpg)
 
 
 
